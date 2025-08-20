@@ -1,4 +1,4 @@
-# ** Challenge Telecom X: análisis de evasión de clientes**
+# **Challenge Telecom X: análisis de evasión de clientes**
 
 
 ## ¿De qué se trata?
