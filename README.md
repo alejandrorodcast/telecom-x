@@ -1,4 +1,4 @@
-# ** Challenge Telecom X - Fuga de clientes (Churn o tasa de cancelación)**
+# ** Challenge Telecom X: análisis de evasión de clientes**
 
 
 ## ¿De qué se trata?
